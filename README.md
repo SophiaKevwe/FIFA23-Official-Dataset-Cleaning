@@ -20,7 +20,7 @@ The cleaned version of the dataset offers enhanced usability and integrity, maki
 
 ## Contents of This Repository
 - **`FIFA_DATA_CLEANING.ipynb`**: The Python notebook containing the data cleaning and preprocessing code used to refine the dataset.  
-- **Link to Kaggle**: The cleaned datasets and additional details about this project are hosted on Kaggle due to their large size. Visit the Kaggle project [here]([https://www.kaggle.com/](https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data/data)) for more information.  
+- **Link to Kaggle**: The cleaned datasets and additional details about this project are hosted on Kaggle due to their large size. Visit the Kaggle project [here](https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data/data) for more information.  
 
 ## How to Use
 1. Download unclean datasets from Kaggle and run the data cleaning code to clean the dataset, alternatively, download the cleaned datasets from kaggle.
